@@ -1,0 +1,4 @@
+﻿  project4.cpp
+c:\users\leo angelo\documents\visual studio 2017\projects\project 4 cosc 214\project 4 cosc 214\linkedqueue.h(34): warning C4715: 'LinkedQueueType::back': not all control paths return a value
+c:\users\leo angelo\documents\visual studio 2017\projects\project 4 cosc 214\project 4 cosc 214\linkedqueue.h(30): warning C4715: 'LinkedQueueType::front': not all control paths return a value
+  Project 4 COSC 214.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\Project 4 COSC 214\Debug\Project 4 COSC 214.exe
