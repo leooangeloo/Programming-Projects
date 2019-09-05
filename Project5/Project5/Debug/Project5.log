@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\leo angelo\documents\visual studio 2015\projects\project5\project5\source.cpp(22): error C4700: uninitialized local variable 'gender' used
