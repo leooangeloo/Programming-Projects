@@ -1,0 +1,3 @@
+﻿  bankingSystem.cpp
+D:\Documents\2016-2019 College Docs\Computer Science\Programs (C++)\Projects (2017)\Banking Project\Banking Project\funct.h(50): warning C4715:  'bankClientInfo::passwordEntry': not all control paths return a value
+  Banking Project.vcxproj -> D:\Documents\2016-2019 College Docs\Computer Science\Programs (C++)\Projects (2017)\Banking Project\Debug\Banking Project.exe

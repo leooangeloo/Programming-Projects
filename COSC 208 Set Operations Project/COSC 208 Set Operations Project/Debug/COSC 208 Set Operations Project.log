@@ -1,0 +1,34 @@
+﻿  Source.cpp
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(18): error C2131: expression did not evaluate to a constant
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(18): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(18): note: see usage of 'counta'
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(74): error C2131: expression did not evaluate to a constant
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(74): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(74): note: see usage of 'num'
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(77): error C3863: array type 'char [num]' is not assignable
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(81): error C3863: array type 'char [num]' is not assignable
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(88): error C3863: array type 'char [num]' is not assignable
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(101): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(103): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(110): error C2131: expression did not evaluate to a constant
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(110): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(110): note: see usage of 'counta'
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(128): error C3863: array type 'char [counta+countb]' is not assignable
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(135): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(137): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(144): error C2131: expression did not evaluate to a constant
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(144): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(144): note: see usage of 'counta'
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(161): error C3863: array type 'char [counta+countb]' is not assignable
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(177): error C3863: array type 'char [counta+countb]' is not assignable
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(183): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(185): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(192): error C2131: expression did not evaluate to a constant
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(192): note: failure was caused by a read of a variable outside its lifetime
+  c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(192): note: see usage of 'counta'
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(217): error C3863: array type 'char [counta+countb]' is not assignable
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(224): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(226): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(246): error C3863: array type 'char [counta+countb]' is not assignable
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(252): warning C4552: '<<': operator has no effect; expected operator with side-effect
+c:\users\leo angelo\documents\visual studio 2017\projects\cosc 208 set operations project\cosc 208 set operations project\source.cpp(254): warning C4552: '<<': operator has no effect; expected operator with side-effect
