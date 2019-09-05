@@ -1,0 +1,6 @@
+﻿  Project3COSC214.cpp
+c:\users\leo angelo\documents\visual studio 2017\projects\project 3 cosc 214\project 3 cosc 214\project3cosc214.cpp(74): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\leo angelo\documents\visual studio 2017\projects\project 3 cosc 214\project 3 cosc 214\arraystacktype.h(33): warning C4715: 'stackType::top': not all control paths return a value
+c:\users\leo angelo\documents\visual studio 2017\projects\project 3 cosc 214\project 3 cosc 214\project3cosc214.cpp(79): warning C4715: 'convert': not all control paths return a value
+  Project 3 COSC 214.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\Project 3 COSC 214\Debug\Project 3 COSC 214.exe
+  Project 3 COSC 214.vcxproj -> C:\Users\Leo Angelo\Documents\Visual Studio 2017\Projects\Project 3 COSC 214\Debug\Project 3 COSC 214.pdb (Partial PDB)
