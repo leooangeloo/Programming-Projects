@@ -1,0 +1,4 @@
+﻿  Random1.cpp
+c:\users\leo angelo\documents\visual studio 2015\projects\project2\project2\random1.cpp(17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project2.vcxproj -> c:\users\leo angelo\documents\visual studio 2015\Projects\Project2\Debug\Project2.exe
+  Project2.vcxproj -> c:\users\leo angelo\documents\visual studio 2015\Projects\Project2\Debug\Project2.pdb (Partial PDB)
