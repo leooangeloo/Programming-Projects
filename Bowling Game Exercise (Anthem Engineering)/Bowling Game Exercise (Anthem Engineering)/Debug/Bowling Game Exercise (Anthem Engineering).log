@@ -1,0 +1,5 @@
+﻿  bowlingGameExercise.cpp
+C:\Users\Leo Angelo\source\repos\Bowling Game Exercise (Anthem Engineering)\Bowling Game Exercise (Anthem Engineering)\bowlingGameExercise.cpp(42,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Leo Angelo\source\repos\Bowling Game Exercise (Anthem Engineering)\Bowling Game Exercise (Anthem Engineering)\bowlingGameExercise.cpp(116,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Leo Angelo\source\repos\Bowling Game Exercise (Anthem Engineering)\Bowling Game Exercise (Anthem Engineering)\bowlingGameExercise.cpp(128,37): warning C4018:  '<': signed/unsigned mismatch
+  Bowling Game Exercise (Anthem Engineering).vcxproj -> C:\Users\Leo Angelo\source\repos\Bowling Game Exercise (Anthem Engineering)\Debug\Bowling Game Exercise (Anthem Engineering).exe
